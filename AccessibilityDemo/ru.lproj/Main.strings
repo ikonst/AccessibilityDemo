@@ -1,0 +1,252 @@
+
+/* Class = "UILabel"; text = "$6.00"; ObjectID = "0Va-we-vpn"; */
+"0Va-we-vpn.text" = "$6.00";
+
+/* Class = "UIButton"; normalTitle = "Lyft Lux"; ObjectID = "2YQ-ma-Ab1"; */
+"2YQ-ma-Ab1.normalTitle" = "Lyft Lux";
+
+/* Class = "UIView"; accessibilityLabel = "Time + Distance: $5.00"; ObjectID = "3D2-g3-1FN"; */
+"3D2-g3-1FN.accessibilityLabel" = "Время + расстояние: $5.00";
+
+/* Class = "UILabel"; text = "Time + Distance"; ObjectID = "3Hf-hf-tv5"; */
+"3Hf-hf-tv5.text" = "Time + Distance";
+
+/* Class = "UILabel"; text = "$1.00"; ObjectID = "3Tn-B7-UCT"; */
+"3Tn-B7-UCT.text" = "$1.00";
+
+/* Class = "UIButton"; normalTitle = "Helvetica"; ObjectID = "5Ob-yL-jgq"; */
+"5Ob-yL-jgq.normalTitle" = "Helvetica";
+
+/* Class = "UILabel"; text = "Focus Order"; ObjectID = "5VW-Fw-zk0"; */
+"5VW-Fw-zk0.text" = "Focus Order";
+
+/* Class = "UIButton"; accessibilityLabel = "Chalk duster"; ObjectID = "6Kp-vj-jSO"; */
+"6Kp-vj-jSO.accessibilityLabel" = "Chalk duster";
+
+/* Class = "UIButton"; normalTitle = "Chalkduster"; ObjectID = "6Kp-vj-jSO"; */
+"6Kp-vj-jSO.normalTitle" = "Chalkduster";
+
+/* Class = "UIButton"; normalTitle = "Lyft"; ObjectID = "7Er-Pa-Yhh"; */
+"7Er-Pa-Yhh.normalTitle" = "Lyft";
+
+/* Class = "UILabel"; text = "The quick fox jumped over the lazy dog."; ObjectID = "8uI-z7-fcR"; */
+"8uI-z7-fcR.text" = "The quick fox jumped over the lazy dog.";
+
+/* Class = "UIButton"; accessibilityLabel = "Close"; ObjectID = "9hr-fP-kK3"; */
+"9hr-fP-kK3.accessibilityLabel" = "Close";
+
+/* Class = "UILabel"; text = "<time>"; ObjectID = "9mQ-B7-NoJ"; */
+"9mQ-B7-NoJ.text" = "<time>";
+
+/* Class = "UILabel"; text = "Modal Pop Up"; ObjectID = "BRw-Zm-xHk"; */
+"BRw-Zm-xHk.text" = "Modal Pop Up";
+
+/* Class = "UIButton"; normalTitle = "Grouped Version"; ObjectID = "BZ4-7a-1Dq"; */
+"BZ4-7a-1Dq.normalTitle" = "Grouped Version";
+
+/* Class = "UIButton"; normalTitle = "Disabled Button"; ObjectID = "Ba3-Cz-0oF"; */
+"Ba3-Cz-0oF.normalTitle" = "Disabled Button";
+
+/* Class = "UIView"; accessibilityLabel = "Total: $6.00"; ObjectID = "Bxe-op-hvV"; */
+"Bxe-op-hvV.accessibilityLabel" = "Ссума: $6.00";
+
+/* Class = "UIButton"; normalTitle = "UIButton with accessibility disabled"; ObjectID = "C1W-CY-36V"; */
+"C1W-CY-36V.normalTitle" = "UIButton with accessibility disabled";
+
+/* Class = "UILabel"; text = "Extensions"; ObjectID = "C38-zf-iue"; */
+"C38-zf-iue.text" = "Extensions";
+
+/* Class = "UILabel"; text = "Time + Distance"; ObjectID = "CBv-IM-Mg2"; */
+"CBv-IM-Mg2.text" = "Time + Distance";
+
+/* Class = "UILabel"; text = "Grouping"; ObjectID = "CYO-Dd-YiY"; */
+"CYO-Dd-YiY.text" = "Grouping";
+
+/* Class = "UIButton"; normalTitle = "accessibilityElementsHidden = false"; ObjectID = "Dtz-sU-iGD"; */
+"Dtz-sU-iGD.normalTitle" = "accessibilityElementsHidden = false";
+
+/* Class = "UILabel"; text = "Tip"; ObjectID = "EIo-q7-6IB"; */
+"EIo-q7-6IB.text" = "Tip";
+
+/* Class = "UIButton"; normalTitle = "Bold"; ObjectID = "ELk-no-l2z"; */
+"ELk-no-l2z.normalTitle" = "Bold";
+
+/* Class = "UIButton"; normalTitle = "Italic"; ObjectID = "Gdt-OJ-GRs"; */
+"Gdt-OJ-GRs.normalTitle" = "Italic";
+
+/* Class = "UILabel"; text = "Labels are accessible by default"; ObjectID = "HQb-qc-MS8"; */
+"HQb-qc-MS8.text" = "Labels are accessible by default";
+
+/* Class = "UILabel"; accessibilityHint = "Swipe up and down to add or subtract dollars"; ObjectID = "HWi-ho-RFK"; */
+"HWi-ho-RFK.accessibilityHint" = "Swipe up and down to add or subtract dollars";
+
+/* Class = "UILabel"; accessibilityLabel = "Adjustable Tip"; ObjectID = "HWi-ho-RFK"; */
+"HWi-ho-RFK.accessibilityLabel" = "Adjustable Tip";
+
+/* Class = "UILabel"; text = "Adjustable Tip: $0"; ObjectID = "HWi-ho-RFK"; */
+"HWi-ho-RFK.text" = "Adjustable Tip: $0";
+
+/* Class = "UILabel"; text = "$1.00"; ObjectID = "HgN-Fq-WoG"; */
+"HgN-Fq-WoG.text" = "$1.00";
+
+/* Class = "UILabel"; text = "Focus Order"; ObjectID = "HpK-7u-VEh"; */
+"HpK-7u-VEh.text" = "Focus Order";
+
+/* Class = "UIButton"; normalTitle = "Italic"; ObjectID = "HyJ-iF-jJW"; */
+"HyJ-iF-jJW.normalTitle" = "Italic";
+
+/* Class = "UILabel"; text = "Images are not accessible by deafult"; ObjectID = "IrF-jm-czI"; */
+"IrF-jm-czI.text" = "Images are not accessible by deafult";
+
+/* Class = "UILabel"; text = "This view controller is presented modally. In addition to the Close button, we also implement accessibilityPerformEsccape.  The escape gesture is drawing Z with two fingers."; ObjectID = "Jrt-b2-deH"; */
+"Jrt-b2-deH.text" = "This view controller is presented modally. In addition to the Close button, we also implement accessibilityPerformEsccape.  The escape gesture is drawing Z with two fingers.";
+
+/* Class = "UILabel"; text = "I'm not a robot"; ObjectID = "Kfs-0I-cnE"; */
+"Kfs-0I-cnE.text" = "I'm not a robot";
+
+/* Class = "UIButton"; normalTitle = "Chalkduster"; ObjectID = "M45-rS-HeJ"; */
+"M45-rS-HeJ.normalTitle" = "Chalkduster";
+
+/* Class = "UILabel"; text = "This label is not an accessibility element"; ObjectID = "MkZ-FE-4Zk"; */
+"MkZ-FE-4Zk.text" = "This label is not an accessibility element";
+
+/* Class = "UILabel"; text = "$6.00"; ObjectID = "OcF-AX-5Ww"; */
+"OcF-AX-5Ww.text" = "$6.00";
+
+/* Class = "UIButton"; normalTitle = "Times New Roman"; ObjectID = "RDY-QL-oc6"; */
+"RDY-QL-oc6.normalTitle" = "Times New Roman";
+
+/* Class = "UIView"; accessibilityLabel = "Tip: $1.00"; ObjectID = "S1T-do-fNF"; */
+"S1T-do-fNF.accessibilityLabel" = "Чаевые: $1.00";
+
+/* Class = "UILabel"; text = "Total"; ObjectID = "T7A-1a-E9z"; */
+"T7A-1a-E9z.text" = "Ссума";
+
+/* Class = "UILabel"; text = "Focus Order"; ObjectID = "TFC-kz-64U"; */
+"TFC-kz-64U.text" = "Focus Order";
+
+/* Class = "UILabel"; text = "Unlabeled image buttons"; ObjectID = "U8O-qb-hpU"; */
+"U8O-qb-hpU.text" = "Unlabeled image buttons";
+
+/* Class = "UILabel"; text = "Time + Distance"; ObjectID = "Utc-zU-I8Z"; */
+"Utc-zU-I8Z.text" = "Время + Дистанция";
+
+/* Class = "UILabel"; text = "$6.00"; ObjectID = "VBM-hN-pro"; */
+"VBM-hN-pro.text" = "$6.00";
+
+/* Class = "UILabel"; text = "Your invoice"; ObjectID = "WAN-BM-D9D"; */
+"WAN-BM-D9D.text" = "Your invoice";
+
+/* Class = "UILabel"; text = "<time>"; ObjectID = "WI7-B6-G6r"; */
+"WI7-B6-G6r.text" = "<time>";
+
+/* Class = "UILabel"; text = "Your invoice"; ObjectID = "WZf-qL-ueD"; */
+"WZf-qL-ueD.text" = "Your invoice";
+
+/* Class = "UILabel"; text = "Header 2"; ObjectID = "X0M-g7-0c2"; */
+"X0M-g7-0c2.text" = "Header 2";
+
+/* Class = "UILabel"; text = "Total"; ObjectID = "Xvc-SG-0MU"; */
+"Xvc-SG-0MU.text" = "Total";
+
+/* Class = "UILabel"; text = "$5.00"; ObjectID = "Ybd-Ez-MDD"; */
+"Ybd-Ez-MDD.text" = "$5.00";
+
+/* Class = "UIButton"; normalTitle = "Bold"; ObjectID = "Z1v-Y3-qr4"; */
+"Z1v-Y3-qr4.normalTitle" = "Bold";
+
+/* Class = "UILabel"; text = "Accomodations"; ObjectID = "Z5y-N4-ZHQ"; */
+"Z5y-N4-ZHQ.text" = "Accomodations";
+
+/* Class = "UILabel"; text = "Total"; ObjectID = "aH3-fe-cba"; */
+"aH3-fe-cba.text" = "Total";
+
+/* Class = "UILabel"; text = "Modal View Controller"; ObjectID = "aYJ-Cl-425"; */
+"aYJ-Cl-425.text" = "Modal View Controller";
+
+/* Class = "UIButton"; normalTitle = "Close"; ObjectID = "apn-km-VSa"; */
+"apn-km-VSa.normalTitle" = "Close";
+
+/* Class = "UINavigationItem"; title = "Accessibility Demos"; ObjectID = "bxx-9Q-Rs0"; */
+"bxx-9Q-Rs0.title" = "Демонстрация доступности";
+
+/* Class = "UILabel"; accessibilityLabel = "License Plate: A B C 1 2 3 4"; ObjectID = "cJG-rt-xX8"; */
+"cJG-rt-xX8.accessibilityLabel" = "License Plate: A B C 1 2 3 4";
+
+/* Class = "UILabel"; text = "License Plate: ABC1234"; ObjectID = "cJG-rt-xX8"; */
+"cJG-rt-xX8.text" = "License Plate: ABC1234";
+
+/* Class = "UIButton"; normalTitle = "View Profile"; ObjectID = "d1P-ex-P2Y"; */
+"d1P-ex-P2Y.normalTitle" = "View Profile";
+
+/* Class = "UIButton"; normalTitle = "www.example.com"; ObjectID = "d7t-2f-I6t"; */
+"d7t-2f-I6t.normalTitle" = "www.example.com";
+
+/* Class = "UILabel"; text = "UIButton contains UIButtonLabel which itself is an accessibility element"; ObjectID = "dbn-e4-Xhi"; */
+"dbn-e4-Xhi.text" = "UIButton contains UIButtonLabel which itself is an accessibility element";
+
+/* Class = "UIButton"; normalTitle = "Request Ride"; ObjectID = "eBu-00-0MU"; */
+"eBu-00-0MU.normalTitle" = "Request Ride";
+
+/* Class = "UILabel"; text = "Traits"; ObjectID = "hbL-PC-li4"; */
+"hbL-PC-li4.text" = "Traits";
+
+/* Class = "UIButton"; normalTitle = "Ride Type: <Type>"; ObjectID = "ig5-Ic-C24"; */
+"ig5-Ic-C24.normalTitle" = "Ride Type: <Type>";
+
+/* Class = "UIBarButtonItem"; title = "Grouped Version"; ObjectID = "lCF-P3-hoy"; */
+"lCF-P3-hoy.title" = "Grouped Version";
+
+/* Class = "UILabel"; accessibilityLabel = "Visa card ending in 1 2 3 4"; ObjectID = "lMP-h9-9pY"; */
+"lMP-h9-9pY.accessibilityLabel" = "Visa card ending in 1 2 3 4";
+
+/* Class = "UILabel"; text = "Visa: *1234"; ObjectID = "lMP-h9-9pY"; */
+"lMP-h9-9pY.text" = "Visa: *1234";
+
+/* Class = "UIButton"; normalTitle = "Helvetica"; ObjectID = "nQb-2k-Fka"; */
+"nQb-2k-Fka.normalTitle" = "Helvetica";
+
+/* Class = "UILabel"; text = "$5.00"; ObjectID = "orn-Sz-4ml"; */
+"orn-Sz-4ml.text" = "$5.00";
+
+/* Class = "UILabel"; text = "Tip"; ObjectID = "p3a-aJ-ogh"; */
+"p3a-aJ-ogh.text" = "Чаевые";
+
+/* Class = "UIButton"; normalTitle = "Lyft Line"; ObjectID = "pAI-nJ-8CF"; */
+"pAI-nJ-8CF.normalTitle" = "Lyft Line";
+
+/* Class = "UILabel"; text = "Tip"; ObjectID = "qCW-Pq-W93"; */
+"qCW-Pq-W93.text" = "Чаевые";
+
+/* Class = "UILabel"; text = "Enabling, disabling and hiding"; ObjectID = "tHQ-t3-On1"; */
+"tHQ-t3-On1.text" = "Enabling, disabling and hiding";
+
+/* Class = "UILabel"; text = "The quick fox jumped over the lazy dog."; ObjectID = "us4-c5-fxr"; */
+"us4-c5-fxr.text" = "The quick fox jumped over the lazy dog.";
+
+/* Class = "UILabel"; text = "Header 1"; ObjectID = "vCr-UL-dNi"; */
+"vCr-UL-dNi.text" = "Header 1";
+
+/* Class = "UILabel"; text = "$1.00"; ObjectID = "wEs-Yw-z6m"; */
+"wEs-Yw-z6m.text" = "$1.00";
+
+/* Class = "UIBarButtonItem"; title = "Grouped"; ObjectID = "x6K-77-jUo"; */
+"x6K-77-jUo.title" = "Grouped";
+
+/* Class = "UILabel"; text = "$5.00"; ObjectID = "yhO-go-yYf"; */
+"yhO-go-yYf.text" = "$5.00";
+
+/* Class = "UIButton"; normalTitle = "Times New Roman"; ObjectID = "ypy-yd-g6t"; */
+"ypy-yd-g6t.normalTitle" = "Times New Roman";
+
+/* Class = "UIView"; accessibilityLabel = "[title], price [price]"; ObjectID = "Lcf-qG-KSn"; */
+"Lcf-qG-KSn.accessibilityLabel" = "[title], цена [price]";
+
+/* Class = "UIView"; accessibilityLabel = "[title], price [price]"; ObjectID = "S4u-hd-MjG"; */
+"S4u-hd-MjG.accessibilityLabel" = "[title], цена [price]";
+
+/* Class = "UIView"; accessibilityLabel = "[title], price [price]"; ObjectID = "P4V-DU-ULK"; */
+"P4V-DU-ULK.accessibilityLabel" = "[title], цена [price]";
+
+/* Class = "UIView"; S4u-hd-MjG.ibExternalUserDefinedRuntimeAttributesLocalizableStrings[0] = "[title], price [price]"; ObjectID = "S4u-hd-MjG"; */
+"S4u-hd-MjG.ibExternalUserDefinedRuntimeAttributesLocalizableStrings[0]" = "";

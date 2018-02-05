@@ -8,20 +8,33 @@
 
 /* Begin PBXBuildFile section */
 		E86760442015600700241992 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E86760432015600700241992 /* AppDelegate.swift */; };
-		E86760462015600700241992 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E86760452015600700241992 /* ViewController.swift */; };
 		E86760492015600700241992 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E86760472015600700241992 /* Main.storyboard */; };
 		E867604B2015600700241992 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E867604A2015600700241992 /* Assets.xcassets */; };
-		E867604E2015600700241992 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E867604C2015600700241992 /* LaunchScreen.storyboard */; };
+		E87263F52028614D00C4FB85 /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = E87263F42028614D00C4FB85 /* Info.plist */; };
+		E8E27C1D2028203C00440B53 /* TraitsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E8E27C1C2028203C00440B53 /* TraitsViewController.swift */; };
+		E8E27C1F20282D6000440B53 /* FocusOrderViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E8E27C1E20282D6000440B53 /* FocusOrderViewController.swift */; };
+		E8E27C212028433700440B53 /* ModalViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E8E27C202028433700440B53 /* ModalViewController.swift */; };
+		E8E27C23202845BB00440B53 /* MenuViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E8E27C22202845BB00440B53 /* MenuViewController.swift */; };
+		E8E27C2C20284DBE00440B53 /* UIView+Accessibility.swift in Sources */ = {isa = PBXBuildFile; fileRef = E8E27C2B20284DBE00440B53 /* UIView+Accessibility.swift */; };
+		E8E27C3020284EB600440B53 /* ExtensionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E8E27C2F20284EB600440B53 /* ExtensionViewController.swift */; };
+		E8E27C3A2028605700440B53 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = E8E27C3C2028605700440B53 /* InfoPlist.strings */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		E86760402015600700241992 /* AccessibilityDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AccessibilityDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E86760432015600700241992 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		E86760452015600700241992 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		E86760482015600700241992 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		E867604A2015600700241992 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		E867604D2015600700241992 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		E867604F2015600700241992 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E87263F42028614D00C4FB85 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E8E27C1C2028203C00440B53 /* TraitsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TraitsViewController.swift; sourceTree = "<group>"; };
+		E8E27C1E20282D6000440B53 /* FocusOrderViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FocusOrderViewController.swift; sourceTree = "<group>"; };
+		E8E27C202028433700440B53 /* ModalViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ModalViewController.swift; sourceTree = "<group>"; };
+		E8E27C22202845BB00440B53 /* MenuViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MenuViewController.swift; sourceTree = "<group>"; };
+		E8E27C2B20284DBE00440B53 /* UIView+Accessibility.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIView+Accessibility.swift"; sourceTree = "<group>"; };
+		E8E27C2F20284EB600440B53 /* ExtensionViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExtensionViewController.swift; sourceTree = "<group>"; };
+		E8E27C322028502200440B53 /* ru */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ru; path = ru.lproj/Main.strings; sourceTree = "<group>"; };
+		E8E27C3B2028605700440B53 /* ru */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ru; path = ru.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		E8E27C3D2028607A00440B53 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,12 +67,17 @@
 		E86760422015600700241992 /* AccessibilityDemo */ = {
 			isa = PBXGroup;
 			children = (
+				E8E27C2B20284DBE00440B53 /* UIView+Accessibility.swift */,
 				E86760432015600700241992 /* AppDelegate.swift */,
-				E86760452015600700241992 /* ViewController.swift */,
 				E86760472015600700241992 /* Main.storyboard */,
 				E867604A2015600700241992 /* Assets.xcassets */,
-				E867604C2015600700241992 /* LaunchScreen.storyboard */,
-				E867604F2015600700241992 /* Info.plist */,
+				E8E27C1C2028203C00440B53 /* TraitsViewController.swift */,
+				E8E27C1E20282D6000440B53 /* FocusOrderViewController.swift */,
+				E8E27C202028433700440B53 /* ModalViewController.swift */,
+				E8E27C22202845BB00440B53 /* MenuViewController.swift */,
+				E8E27C2F20284EB600440B53 /* ExtensionViewController.swift */,
+				E8E27C3C2028605700440B53 /* InfoPlist.strings */,
+				E87263F42028614D00C4FB85 /* Info.plist */,
 			);
 			path = AccessibilityDemo;
 			sourceTree = "<group>";
@@ -107,6 +125,7 @@
 			knownRegions = (
 				en,
 				Base,
+				ru,
 			);
 			mainGroup = E86760372015600700241992;
 			productRefGroup = E86760412015600700241992 /* Products */;
@@ -123,8 +142,9 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				E867604E2015600700241992 /* LaunchScreen.storyboard in Resources */,
+				E87263F52028614D00C4FB85 /* Info.plist in Resources */,
 				E867604B2015600700241992 /* Assets.xcassets in Resources */,
+				E8E27C3A2028605700440B53 /* InfoPlist.strings in Resources */,
 				E86760492015600700241992 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -136,7 +156,12 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				E86760462015600700241992 /* ViewController.swift in Sources */,
+				E8E27C1F20282D6000440B53 /* FocusOrderViewController.swift in Sources */,
+				E8E27C23202845BB00440B53 /* MenuViewController.swift in Sources */,
+				E8E27C212028433700440B53 /* ModalViewController.swift in Sources */,
+				E8E27C3020284EB600440B53 /* ExtensionViewController.swift in Sources */,
+				E8E27C1D2028203C00440B53 /* TraitsViewController.swift in Sources */,
+				E8E27C2C20284DBE00440B53 /* UIView+Accessibility.swift in Sources */,
 				E86760442015600700241992 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -148,16 +173,18 @@
 			isa = PBXVariantGroup;
 			children = (
 				E86760482015600700241992 /* Base */,
+				E8E27C322028502200440B53 /* ru */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
 		};
-		E867604C2015600700241992 /* LaunchScreen.storyboard */ = {
+		E8E27C3C2028605700440B53 /* InfoPlist.strings */ = {
 			isa = PBXVariantGroup;
 			children = (
-				E867604D2015600700241992 /* Base */,
+				E8E27C3B2028605700440B53 /* ru */,
+				E8E27C3D2028607A00440B53 /* en */,
 			);
-			name = LaunchScreen.storyboard;
+			name = InfoPlist.strings;
 			sourceTree = "<group>";
 		};
 /* End PBXVariantGroup section */
@@ -167,6 +194,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
 				CLANG_ANALYZER_NONNULL = YES;
 				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
 				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
@@ -224,6 +252,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
 				CLANG_ANALYZER_NONNULL = YES;
 				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
 				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";

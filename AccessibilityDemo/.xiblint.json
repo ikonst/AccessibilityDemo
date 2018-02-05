@@ -1,0 +1,10 @@
+{
+  "rules": [
+    "accessibility_format",
+    "accessibility_labels_for_images",
+    "accessibility_labels_for_image_buttons",
+    "autolayout_frames",
+    "no_trait_variations",
+    "simulated_metrics_retina4_0"
+  ]
+}
